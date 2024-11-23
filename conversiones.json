@@ -1,0 +1,90 @@
+[
+  {
+    "baseCode": "USD",
+    "targetCode": "ARS",
+    "conversionRate": 1006.75,
+    "importeAConvertir": 1100.0,
+    "importeConvertido": 1107425.0,
+    "fechaHora": "2024-11-23 17:29:45"
+  },
+  {
+    "baseCode": "ARS",
+    "targetCode": "USD",
+    "conversionRate": 9.933E-4,
+    "importeAConvertir": 150000.0,
+    "importeConvertido": 148.99499999999998,
+    "fechaHora": "2024-11-23 17:30:06"
+  },
+  {
+    "baseCode": "BRL",
+    "targetCode": "USD",
+    "conversionRate": 0.172,
+    "importeAConvertir": 1500.0,
+    "importeConvertido": 258.0,
+    "fechaHora": "2024-11-23 17:30:19"
+  },
+  {
+    "baseCode": "USD",
+    "targetCode": "ARS",
+    "conversionRate": 1006.75,
+    "importeAConvertir": 4.0,
+    "importeConvertido": 4027.0,
+    "fechaHora": "2024-11-23 17:32:22"
+  },
+  {
+    "baseCode": "USD",
+    "targetCode": "ARS",
+    "conversionRate": 1006.75,
+    "importeAConvertir": 45.0,
+    "importeConvertido": 45303.75,
+    "fechaHora": "2024-11-23 17:33:15"
+  },
+  {
+    "baseCode": "USD",
+    "targetCode": "COP",
+    "conversionRate": 4261.4789,
+    "importeAConvertir": 458.0,
+    "importeConvertido": 1951757.3362,
+    "fechaHora": "2024-11-23 17:35:20"
+  },
+  {
+    "baseCode": "ARS",
+    "targetCode": "USD",
+    "conversionRate": 9.933E-4,
+    "importeAConvertir": 180000.0,
+    "importeConvertido": 178.79399999999998,
+    "fechaHora": "2024-11-23 17:36:21"
+  },
+  {
+    "baseCode": "USD",
+    "targetCode": "BRL",
+    "conversionRate": 5.8135,
+    "importeAConvertir": 100.0,
+    "importeConvertido": 581.35,
+    "fechaHora": "2024-11-23 17:36:37"
+  },
+  {
+    "baseCode": "COP",
+    "targetCode": "USD",
+    "conversionRate": 2.3469E-4,
+    "importeAConvertir": 8.7654321E7,
+    "importeConvertido": 20571.592595489998,
+    "fechaHora": "2024-11-23 17:36:55"
+  },
+  {
+    "baseCode": "USD",
+    "targetCode": "BRL",
+    "conversionRate": 5.8135,
+    "importeAConvertir": 1500.0,
+    "importeConvertido": 8720.25,
+    "fechaHora": "2024-11-23 17:54:53"
+  },
+  {
+    "baseCode": "USD",
+    "targetCode": "COP",
+    "conversionRate": 4261.4789,
+    "importeAConvertir": 450.0,
+    "importeConvertido": 1917665.5050000001,
+    "fechaHora": "2024-11-23 17:55:11"
+  }
+]
